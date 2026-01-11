@@ -66,10 +66,11 @@ The system includes admin verification of service providers, secure Razorpay pay
 
 # 👤 User Module
 * Home Page
-<img width="1893" height="908" alt="Screenshot 2026-01-11 085239" src="https://github.com/user-attachments/assets/e97d8550-6a2e-4364-a484-e8f8970e0a1f" />
-<img width="1892" height="812" alt="Screenshot 2026-01-11 085303" src="https://github.com/user-attachments/assets/d0db65e4-8b4c-4c95-b39d-f20fa2d43cd3" />
-<img width="1891" height="813" alt="Screenshot 2026-01-11 085323" src="https://github.com/user-attachments/assets/ae210753-ac47-4d0b-ba3d-0c81b26124bc" />
-<img width="1886" height="517" alt="Screenshot 2026-01-11 085338" src="https://github.com/user-attachments/assets/04fc76e7-472a-4d70-9bc7-5d3ac04b8640" />
+<img width="1892" height="749" alt="Screenshot 2026-01-11 101453" src="https://github.com/user-attachments/assets/f4f61cd0-cf30-4d04-b66b-dabdb35e663f" />
+<img width="1881" height="520" alt="Screenshot 2026-01-11 101505" src="https://github.com/user-attachments/assets/bf51eac6-ccbc-4995-8376-9eea36907dbc" />
+<img width="1881" height="795" alt="Screenshot 2026-01-11 101534" src="https://github.com/user-attachments/assets/b89e3459-9121-4ca7-803b-0e58ac3c9573" />
+<img width="1891" height="653" alt="Screenshot 2026-01-11 101548" src="https://github.com/user-attachments/assets/c75a8cfc-5c2e-4503-b197-c717ae1cd3e6" />
+<img width="1892" height="501" alt="Screenshot 2026-01-11 101604" src="https://github.com/user-attachments/assets/a1522426-7ed5-455f-badf-b87d2f67c1e5" />
 
 * Service Listing
 <img width="1901" height="770" alt="Screenshot 2026-01-11 085358" src="https://github.com/user-attachments/assets/5cdfc510-2d65-4166-96d3-e7682be748f9" />
