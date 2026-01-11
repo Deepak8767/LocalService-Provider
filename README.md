@@ -67,7 +67,6 @@ The system includes admin verification of service providers, secure Razorpay pay
 # 👤 User Module
 * Home Page
 <img width="1893" height="908" alt="Screenshot 2026-01-11 085239" src="https://github.com/user-attachments/assets/0aaadb64-f13c-4adb-9404-7a1ee30cce1a" />
-<img width="1892" height="830" alt="Screenshot 2026-01-11 085303" src="https://github.com/user-attachments/assets/542fb8fd-3d8c-4dae-bf9f-ff42e8f73cee" />
 <img width="1892" height="830" alt="Screenshot 2026-01-11 085303" src="https://github.com/user-attachments/assets/be6f7ad8-de1b-4dda-865d-59e79c1a4e48" />
 <img width="1891" height="827" alt="Screenshot 2026-01-11 085323" src="https://github.com/user-attachments/assets/68f72a48-3d9e-41dc-a32d-8bba21986575" />
 <img width="1886" height="689" alt="Screenshot 2026-01-11 085338" src="https://github.com/user-attachments/assets/8f3fac80-c31c-4329-bbca-d97f02c707ac" />
