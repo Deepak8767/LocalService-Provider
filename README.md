@@ -76,10 +76,9 @@ The system includes admin verification of service providers, secure Razorpay pay
 <img width="1901" height="770" alt="Screenshot 2026-01-11 085358" src="https://github.com/user-attachments/assets/5cdfc510-2d65-4166-96d3-e7682be748f9" />
 
 * Booking Page
-<img width="1890" height="907" alt="Screenshot 2026-01-11 085425" src="https://github.com/user-attachments/assets/7fbde144-7ec7-4a4b-b71a-a8e822c34900" />
-<img width="1888" height="827" alt="Screenshot 2026-01-11 085449" src="https://github.com/user-attachments/assets/cf810260-dcbc-44e2-84a1-22abea50a6f0" />
+<img width="1893" height="824" alt="Screenshot 2026-01-11 101944" src="https://github.com/user-attachments/assets/db1e465f-6f28-4c60-8bf6-4a3cc6d2e531" />
+<img width="1886" height="766" alt="Screenshot 2026-01-11 101956" src="https://github.com/user-attachments/assets/ebb876bc-ef00-4fe3-8834-76d5dea841be" />
 
-* Payment Confirmation
 
 # 🧑‍🔧 Service Provider Module
 * Booking Management
